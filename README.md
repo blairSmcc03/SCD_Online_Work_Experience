@@ -21,9 +21,11 @@ To achieve this they carried out independent research on factors impacting Solar
 
 A few example figures can be seen below:
 
-![Solar Analysis 1](solar/figures/cloudy_days_london_pie.png)
-![Solar Analysis 2](solar/figures/wind_consistency_kmh.png)
-![Solar Analysis 3](solar/figures/daytime_temperature_analysis.png)
+<p align="center">
+  <img src="solar/figures/cloudy_days_london_pie.png" />
+  <img src="solar/figures/wind_consistency_kmh.png" />
+  <img src="solar/figures/daytime_temperature_analysis.png" />
+</p>
 
 ## Wind Energy Analysis
 
@@ -33,6 +35,8 @@ To achieve this they carried out independent research on factors impacting Wind 
 
 A few example figures can be seen below:
 
-![Wind Analysis 1](wind/figures/average_wind_speed_lisbon_line.png)
-![Wind Analysis 2](wind/figures/average_temperature_month.png)
-![Wind Analysis 3](wind/figures/wind_direction_distribution.png)
+<p align="center">
+  <img src="wind/figures/average_wind_speed_lisbon_line.png" />
+  <img src="wind/figures/average_temperature_month.png" />
+  <img src="wind/figures/wind_direction_distribution.png" />
+</p>
